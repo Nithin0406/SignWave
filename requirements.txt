@@ -1,0 +1,10 @@
+flask
+flask-cors
+gunicorn
+openai-whisper
+python-Levenshtein
+mediapipe
+opencv-python
+numpy
+scipy
+sounddevice
